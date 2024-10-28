@@ -1,0 +1,1 @@
+PyInstaller --onefile --icon=sw_icon.ico ttopng.py
